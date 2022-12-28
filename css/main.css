@@ -1,3 +1,13 @@
 body{
 	font-size:20px
 }
+
+ul li{
+	line-height: none;
+	text-decoration: none;
+
+	color: red;
+}
+ul{
+	display: flex;
+}
